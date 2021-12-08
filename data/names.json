@@ -1,0 +1,82 @@
+[
+    {
+        "id": 10,
+        "first_name": "Car",
+        "last_name": "Mattea",
+        "email": "cmattea9@nytimes.com",
+        "gender": "Female",
+        "ip_address": "188.6.39.174"
+    },
+    {
+        "id": 9,
+        "first_name": "Cilka",
+        "last_name": "Wallhead",
+        "email": "cwallhead8@latimes.com",
+        "gender": "Bigender",
+        "ip_address": "173.175.3.180"
+    },
+    {
+        "id": 2,
+        "first_name": "Davy",
+        "last_name": "Divers",
+        "email": "ddivers1@google.es",
+        "gender": "Polygender",
+        "ip_address": "224.164.57.167"
+    },
+    {
+        "id": 5,
+        "first_name": "Em",
+        "last_name": "Giraldon",
+        "email": "egiraldon4@wired.com",
+        "gender": "Agender",
+        "ip_address": "183.53.253.188"
+    },
+    {
+        "id": 6,
+        "first_name": "Gayle",
+        "last_name": "Rawsthorn",
+        "email": "grawsthorn5@google.fr",
+        "gender": "Female",
+        "ip_address": "46.23.50.181"
+    },
+    {
+        "id": 1,
+        "first_name": "Loy",
+        "last_name": "Fulford",
+        "email": "lfulford0@arstechnica.com",
+        "gender": "Polygender",
+        "ip_address": "12.119.64.152"
+    },
+    {
+        "id": 4,
+        "first_name": "Nataline",
+        "last_name": "De Filippi",
+        "email": "ndefilippi3@jugem.jp",
+        "gender": "Non-binary",
+        "ip_address": "20.139.118.153"
+    },
+    {
+        "id": 3,
+        "first_name": "Nico",
+        "last_name": "Wingrove",
+        "email": "nwingrove2@canalblog.com",
+        "gender": "Male",
+        "ip_address": "186.161.172.248"
+    },
+    {
+        "id": 8,
+        "first_name": "Patricia",
+        "last_name": "McElwee",
+        "email": "pmcelwee7@cdbaby.com",
+        "gender": "Agender",
+        "ip_address": "168.92.98.190"
+    },
+    {
+        "id": 7,
+        "first_name": "Travus",
+        "last_name": "Carolan",
+        "email": "tcarolan6@drupal.org",
+        "gender": "Non-binary",
+        "ip_address": "171.80.227.39"
+    }
+]
